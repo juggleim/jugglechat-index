@@ -1,0 +1,11 @@
+port: 8050
+
+log:
+  logPath: ./logs
+  logName: jugglechat-index
+
+mysql:
+  user: root
+  password: Abc123456
+  address: 127.0.0.1:3306
+  name: im_db
